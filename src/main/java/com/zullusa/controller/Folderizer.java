@@ -1,9 +1,6 @@
 package com.zullusa.controller;
 
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -12,6 +9,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.logging.Level;
 
 /**
  * Purpose .
